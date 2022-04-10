@@ -3,12 +3,12 @@
             // Question 1
 
 // var asad = [];
-// console.log(name);
+// console.log(asad);
 
                   // Question 2
 
-// var  khan = new Array();
-// console.log(khan);
+// var  bmj = new Array();
+// console.log(bmj);
 
                   // Question 3
 
